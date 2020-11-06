@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Arrow
+  - Character
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Cliff
+    uniqueID: 4067711965
+    locked: 0
+  - name: Background
+    uniqueID: 1017394933
+    locked: 0
+  - name: Characters
+    uniqueID: 1633756875
     locked: 0
